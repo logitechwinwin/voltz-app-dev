@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Voltz</string> 
+    <string name="facebook_app_id">2824468321044003</string>
+    <string name="fb_login_protocol_scheme">fb2824468321044003</string>
+    <string name="facebook_client_token">1f71e77156517016393accbd4b71979c</string>
+</resources>

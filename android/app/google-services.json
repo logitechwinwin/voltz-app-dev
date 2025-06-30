@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "928492200732",
+    "project_id": "voltz-8a2c5",
+    "storage_bucket": "voltz-8a2c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928492200732:android:0578c8fcd305eacd31d0d9",
+        "android_client_info": {
+          "package_name": "com.voltz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928492200732-6fhn0l24morqgnnnqc3av0jn3p5bs51m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voltz",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "928492200732-5q3eu071ts44pod1j0oal2etf1vcgo3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Rv6W5VWqbIq7tyV9oM_yvK02FvHT7jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928492200732-5q3eu071ts44pod1j0oal2etf1vcgo3d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "928492200732-4dqk6t92sel31repuvqhtpq70iatb1ae.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "global.voltz.app",
+                "app_store_id": "6738870847"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928492200732:android:2fc5eb745925044931d0d9",
+        "android_client_info": {
+          "package_name": "global.voltz.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928492200732-5q3eu071ts44pod1j0oal2etf1vcgo3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Rv6W5VWqbIq7tyV9oM_yvK02FvHT7jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928492200732-5q3eu071ts44pod1j0oal2etf1vcgo3d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "928492200732-4dqk6t92sel31repuvqhtpq70iatb1ae.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "global.voltz.app",
+                "app_store_id": "6738870847"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
